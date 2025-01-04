@@ -69,7 +69,7 @@ pip install django djangorestframework mysqlclient djoser
 
 3. Configure MySQL database in settings.py
 
-4. Apply migrations:
+4. Apply the migrations:
 
 ```bash
 python manage.py migrate
